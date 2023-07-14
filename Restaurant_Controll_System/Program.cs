@@ -204,10 +204,10 @@
 
             static void sendReceiptToClient(StringBuilder sb)
             {
-                var smtpClient = new SmtpClient("avokadas.serveriai.lt")
+                var smtpClient = new SmtpClient("server")
                 {
                     Port = 587,
-                    Credentials = new NetworkCredential("sniuras@3dburst.com", "Sp5s3JPeA2Ae5Rgd"),
+                    Credentials = new NetworkCredential("email", "pass"),
                     EnableSsl = true,
                     UseDefaultCredentials = false,
                     DeliveryMethod = SmtpDeliveryMethod.Network,
