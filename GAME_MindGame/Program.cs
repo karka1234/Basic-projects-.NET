@@ -372,8 +372,6 @@
                     }
                 }
             };
-
-
             return playersData;
         }
         static void PrintCurrentUser(Dictionary<string, Dictionary<string, int>> palyersData, string currUser)

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAME_TicTacToe", "GAME_TicTacToe\GAME_TicTacToe.csproj", "{260476EE-6629-4A69-98C1-56841BEF555B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GAME_TicTacToe", "GAME_TicTacToe\GAME_TicTacToe.csproj", "{260476EE-6629-4A69-98C1-56841BEF555B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAME_MindGame", "GAME_MindGame\GAME_MindGame.csproj", "{C5D3E50C-29A7-4EA8-B0A8-9B4D103BD338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GAME_MindGame", "GAME_MindGame\GAME_MindGame.csproj", "{C5D3E50C-29A7-4EA8-B0A8-9B4D103BD338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant_Controll_System", "Restaurant_Controll_System\Restaurant_Controll_System.csproj", "{FA57BEAF-8A97-49F2-9A0E-448EAD0B254E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C5D3E50C-29A7-4EA8-B0A8-9B4D103BD338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5D3E50C-29A7-4EA8-B0A8-9B4D103BD338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5D3E50C-29A7-4EA8-B0A8-9B4D103BD338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA57BEAF-8A97-49F2-9A0E-448EAD0B254E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA57BEAF-8A97-49F2-9A0E-448EAD0B254E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA57BEAF-8A97-49F2-9A0E-448EAD0B254E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA57BEAF-8A97-49F2-9A0E-448EAD0B254E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
