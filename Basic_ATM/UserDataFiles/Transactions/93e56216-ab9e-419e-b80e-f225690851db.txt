@@ -1,0 +1,8 @@
+﻿Uz automobili AUDI;4800.00;05/07/2023;
+Maxima apsiprikimas;89.00;06/06/2023;
+Pinigu inesimas;50;7/8/2023;
+Pinigu inesimas;500;7/8/2023;
+Pinigu isemimas;100;7/8/2023;
+Pinigu inesimas;20;7/8/2023;
+Pinigu inesimas;20;7/8/2023;
+Pinigu isemimas;5;7/8/2023;

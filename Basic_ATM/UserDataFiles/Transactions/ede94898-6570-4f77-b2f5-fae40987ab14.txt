@@ -1,0 +1,6 @@
+﻿Uz automobili AUDI;4800.00;05/07/2023;
+Maxima apsiprikimas;89.00;06/06/2023;
+IKI apsipirkimas;50.00;08/07/2023;
+Sodybos nuoma;480;04/08/2023;
+Uz automobili BMW;8800.00;10/07/2023;
+Pinigu inesimas;50;7/8/2023;
